@@ -1,5 +1,7 @@
 # FinanceHub UI
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Bettdatsh210-boop)
+
 A real React component library for a personal-finance dashboard, built from the `financial-app-ui-sigma.vercel.app` mock.
 
 ## Stack
@@ -34,3 +36,6 @@ src/index.js              public barrel exports
 ## Deployed
 - GitHub: https://github.com/Bettdatsh210-boop/financehub-ui
 - Netlify: https://financehub-ui.netlify.app
+
+## Sponsor
+If you use this kit, [sponsor the work](https://github.com/sponsors/Bettdatsh210-boop). Funds docs, edge-case states, and keeping the public demo current. Not tax-deductible.
