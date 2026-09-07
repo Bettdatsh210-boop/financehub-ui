@@ -1,0 +1,59 @@
+:root {
+  /* Color */
+  --fh-color-canvas: #f9fafb;
+  --fh-color-surface: #ffffff;
+  --fh-color-ink: #111827;
+  --fh-color-ink-muted: #6b7280;
+  --fh-color-rule: #e5e7eb;
+  --fh-color-income: #16a34a;
+  --fh-color-income-soft: #dcfce7;
+  --fh-color-spend: #dc2626;
+  --fh-color-spend-soft: #fee2e2;
+  --fh-color-action: #2563eb;
+  --fh-color-action-hover: #1d4ed8;
+  --fh-color-action-soft: #dbeafe;
+  --fh-color-focus: #2563eb;
+
+  /* Type */
+  --fh-font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --fh-text-xs: 0.75rem;
+  --fh-text-sm: 0.875rem;
+  --fh-text-base: 1rem;
+  --fh-text-lg: 1.125rem;
+  --fh-text-xl: 1.25rem;
+  --fh-text-2xl: 1.5rem;
+  --fh-text-3xl: 1.875rem;
+  --fh-text-metric: 1.875rem;
+  --fh-weight-medium: 500;
+  --fh-weight-semibold: 600;
+  --fh-weight-bold: 700;
+  --fh-leading-tight: 1.25;
+  --fh-leading-normal: 1.5;
+
+  /* Space (8px scale) */
+  --fh-space-1: 0.25rem;
+  --fh-space-2: 0.5rem;
+  --fh-space-3: 0.75rem;
+  --fh-space-4: 1rem;
+  --fh-space-5: 1.25rem;
+  --fh-space-6: 1.5rem;
+  --fh-space-8: 2rem;
+  --fh-space-10: 2.5rem;
+  --fh-space-12: 3rem;
+
+  /* Radius */
+  --fh-radius-sm: 0.375rem;
+  --fh-radius-md: 0.5rem;
+  --fh-radius-lg: 0.75rem;
+  --fh-radius-xl: 1rem;
+  --fh-radius-full: 9999px;
+
+  /* Shadow */
+  --fh-shadow-card: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+  --fh-shadow-card-hover: 0 10px 20px rgba(0,0,0,0.08), 0 4px 8px rgba(0,0,0,0.04);
+  --fh-shadow-header: 0 1px 2px rgba(0,0,0,0.06);
+
+  /* Motion */
+  --fh-transition-fast: 150ms ease;
+  --fh-transition-shadow: box-shadow 200ms ease;
+}
